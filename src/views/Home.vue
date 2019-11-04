@@ -532,7 +532,7 @@ export default {
 .main_cont {
   position: absolute;
   left: calc(50% - 284px);
-  top: 30%;
+  top: 45%;
   z-index: 2;
 }
 .ivu-card-head p {
